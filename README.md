@@ -11,3 +11,6 @@ C:output
 D:return
 # latihan 3
 tempatnya salah karena variabelnya tidak sesuai dengan integer a
+variabelnya ada 2
+variabelnya ada 5
+karena ada variabel yang bertipe double
